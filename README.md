@@ -14,7 +14,7 @@ A professional, high-performance, and responsive landing page designed for denta
 * **Deployment:** GitHub Pages.
 
 ## 🚀 Live Demo
-[Put your GitHub Pages link here]
+[https://github.com/abdoibrahim20/smilecare-landing-page/tree/main]
 
 ## 📸 Preview
 ![Project Screenshot](![Smilecare](https://github.com/user-attachments/assets/1978648e-7c06-4285-b579-377d2a32d044)
