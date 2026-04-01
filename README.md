@@ -10,7 +10,6 @@ A professional, high-performance, and responsive landing page designed for denta
 
 ## 🛠️ Tech Stack
 * **Frontend:** HTML5, CSS3 (Flexbox/Grid), JavaScript (ES6+).
-* **Libraries:** [Mention any library if used, e.g., FontAwesome for icons].
 * **Deployment:** GitHub Pages.
 
 ## 🚀 Live Demo
